@@ -19,8 +19,23 @@ First of all list all the manually installed packages. Run this command :
 
 # pip packages
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+To freeze the currently installed packages in your old installation, run this : 
 
-#  npm packages
+    pip freeze > pip-packages.txt
+
+To install : 
+
+    pip install -r pip-packages.txt
+
+#  Survival Kit
+
+ 1. 
+	Proxy-Man, one proxy to rule them all : 
+		
+		https://github.com/himanshub16/ProxyMan
+ 2. 
+	My dirt-laundary : 
+
+	    git clone https://github.com/SerChirag/keylogger
 
 
