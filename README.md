@@ -39,3 +39,8 @@ To install :
 	    git clone https://github.com/SerChirag/keylogger
 
 
+#  Fonts
+
+ 1. Download the fonts folder, and rename it .fonts
+ 2. Move it to "Home directory"
+
